@@ -1,6 +1,6 @@
 from functools import partial
 
-from src.tinytoggle import TinyToggle
+from tinytoggle import TinyToggle
 
 
 class UsageFlag:
