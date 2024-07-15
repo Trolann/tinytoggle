@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "tinytoggle"
-version = "2024.7.2"
+version = "2024.7.3"
 authors = [{ name = "Trevor Mathisen", email = "trevor@mathisen.dev" }]
 description = "A tiny feature toggle module."
 readme = "README.md"
